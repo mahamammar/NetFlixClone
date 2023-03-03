@@ -1,21 +1,34 @@
-# Netflix-Clone
 
-Build on Reactjs, Hosting, and Deployment on firebase
+# NetFlix Clone
 
-## Installation
+A Netflix Clone built on React and MaterialUI is a web application that imitates the functionality and design of the popular streaming service, Netflix. This clone has been created using the React JavaScript library and MaterialUI, a popular UI component library.
 
-Download the Project from [git](https://github.com/Ahmad-younas/Netflix-clone.git) repository.
+## Demo
 
-follow the steps given below
+https://netflixclone-4d2f3.web.app/
+## Screenshots
+
+![nerflix](https://user-images.githubusercontent.com/126409906/222723988-71f368a4-6020-4409-b80b-c457662b34f3.jpg)
+
+
+## Run Locally
+
+Clone the project
 
 ```bash
-npm install 
+  git clone https://github.com/mahamammar/NetFlixClone.git
 ```
-```bash
-npm start
-```
-## usage 
-For practice and get experience purpose
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+Go to the project directory
+
+```bash
+  cd Netflix-clone-main
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
